@@ -12,5 +12,7 @@ Input:
 Output
    simple interest = p*t*r
 ```
+# Correction de faute de frappe
 
+Cette ligne a été ajoutée pour corriger une faute de frappe dans le document.
 _© 2022 XYZ, Inc._
